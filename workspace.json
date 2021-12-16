@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "test": "packages/test",
+    "test-e2e": "packages/test-e2e"
+  }
 }
